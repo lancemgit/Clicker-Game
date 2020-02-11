@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Clicker-Game/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Clicker-Game/static/js/main.1eae1547.chunk.js",
-    "main.js.map": "/Clicker-Game/static/js/main.1eae1547.chunk.js.map",
+    "main.js": "/Clicker-Game/static/js/main.d65a419c.chunk.js",
+    "main.js.map": "/Clicker-Game/static/js/main.d65a419c.chunk.js.map",
     "runtime-main.js": "/Clicker-Game/static/js/runtime-main.5c6a5bf3.js",
     "runtime-main.js.map": "/Clicker-Game/static/js/runtime-main.5c6a5bf3.js.map",
     "static/css/2.47e06e2e.chunk.css": "/Clicker-Game/static/css/2.47e06e2e.chunk.css",
     "static/js/2.86fe16d0.chunk.js": "/Clicker-Game/static/js/2.86fe16d0.chunk.js",
     "static/js/2.86fe16d0.chunk.js.map": "/Clicker-Game/static/js/2.86fe16d0.chunk.js.map",
     "index.html": "/Clicker-Game/index.html",
-    "precache-manifest.c60bf287cf60451be4082470474bdf3a.js": "/Clicker-Game/precache-manifest.c60bf287cf60451be4082470474bdf3a.js",
+    "precache-manifest.ad93c444f6bfe238943133c60f3225e9.js": "/Clicker-Game/precache-manifest.ad93c444f6bfe238943133c60f3225e9.js",
     "service-worker.js": "/Clicker-Game/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/Clicker-Game/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/Clicker-Game/static/css/main.5ecd60fb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.86fe16d0.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.1eae1547.chunk.js"
+    "static/js/main.d65a419c.chunk.js"
   ]
 }

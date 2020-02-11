@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24c2472ddd7bbd112cee2ddf17edb87e",
+    "revision": "d88f2df44ba57d6154f2536fc647c8cf",
     "url": "/Clicker-Game/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Clicker-Game/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "d490c55ff87f4ef46372",
+    "revision": "09da4d46838797bf33d5",
     "url": "/Clicker-Game/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Clicker-Game/static/js/2.86fe16d0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d490c55ff87f4ef46372",
-    "url": "/Clicker-Game/static/js/main.1eae1547.chunk.js"
+    "revision": "09da4d46838797bf33d5",
+    "url": "/Clicker-Game/static/js/main.d65a419c.chunk.js"
   },
   {
     "revision": "e8bee6a40d667c87fad5",
